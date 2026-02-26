@@ -8,11 +8,10 @@ This repository contains my hands-on practice while learning **Plotly**, an inte
 ## 📁 Repository Structure
 
 ```
-
-PLOTLY.ipynb   # Jupyter Notebook with practice code  
-plotly_practice.py   # Converted Python script version  
-README.md      # Project documentation  
-
+│
+├── PLOTLY.ipynb   # Jupyter Notebook with practice code  
+├── PLOTLY.py   # Converted Python script version  
+└── README.md      # Project documentation  
 ```
 
 ---
