@@ -56,3 +56,6 @@ This file serves as structured interactive visualization notes to strengthen my 
 **Tejal Pagar**  
 Data Science & AI/ML Learner  
 📍 India
+---
+
+⭐ If you find this repository helpful, feel free to star it!
