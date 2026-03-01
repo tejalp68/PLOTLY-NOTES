@@ -2,7 +2,6 @@
 
 ## 📌 Overview
 This repository contains my hands-on practice while learning **Plotly**, an interactive data visualization library in Python. The file includes various interactive visualization techniques commonly used in data analysis and AI/ML projects.
-
 ---
 
 ## 📁 Repository Structure
